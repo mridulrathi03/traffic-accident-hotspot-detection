@@ -25,9 +25,7 @@ def load_data():
 # title
 st.title("🚦 Traffic Accident Hotspot Analysis")
 
-st.markdown("""
-Project by: MD Aarish Qureshi, Mridul Rathi, Atharva Gaikwad, Kailash Sharma  
-
+st.markdown("""  
 Goal: Find accident-prone areas and visualize the data
 """)
 
