@@ -1,0 +1,31 @@
+latitude,longitude,severity,time_of_day,weather,location_name
+21.2514,81.6296,Major,Evening,Clear,Jaistambh Chowk
+21.2445,81.6050,Minor,Morning,Clear,Tatibandh Chowk
+21.2356,81.6542,Fatal,Night,Rainy,Telibandha (Marine Drive)
+21.2678,81.6667,Major,Afternoon,Clear,Shankar Nagar
+21.2167,81.6333,Minor,Morning,Foggy,Bhatagaon Chowk
+21.2833,81.6167,Fatal,Night,Clear,Bhanpuri
+21.2550,81.6400,Minor,Evening,Rainy,Ghadi Chowk
+21.2300,81.6000,Major,Night,Foggy,Ring Road No 1
+21.2490,81.6350,Minor,Afternoon,Clear,Malviya Road
+21.1600,81.7800,Fatal,Night,Rainy,Naya Raipur Entry
+21.2510,81.6290,Minor,Morning,Clear,Near Ravi Bhavan
+21.2360,81.6550,Major,Evening,Clear,Magneto Mall Signal
+21.2450,81.6060,Fatal,Night,Foggy,AIIMS Gate
+21.2600,81.6500,Minor,Afternoon,Clear,Pandri Market
+21.2400,81.6100,Major,Morning,Rainy,GE Road
+21.2700,81.6700,Minor,Evening,Clear,VIP Road
+21.2200,81.6300,Fatal,Night,Rainy,Pachpedi Naka
+21.2520,81.6310,Minor,Afternoon,Clear,Moudhapara
+21.2150,81.6350,Major,Morning,Foggy,Santoshi Nagar
+21.1900,81.7000,Minor,Evening,Clear,Airport Road
+21.2518,81.6305,Major,Night,Rainy,Fafadih Chowk
+21.2380,81.6580,Minor,Afternoon,Clear,Telibandha Talab
+21.2460,81.6030,Fatal,Night,Foggy,Hirapur Ring Road
+21.2650,81.6600,Major,Morning,Clear,Civil Lines
+21.2250,81.6450,Minor,Evening,Rainy,Kalibadi
+21.1500,81.7900,Fatal,Night,Clear,Mantralaya Road
+21.2505,81.6285,Minor,Morning,Foggy,Gol Bazar
+21.2340,81.6530,Major,Afternoon,Clear,Amarkantak View
+21.2430,81.6040,Minor,Evening,Clear,Mohba Bazar
+21.2800,81.6200,Fatal,Night,Rainy,Urla Industrial Area
